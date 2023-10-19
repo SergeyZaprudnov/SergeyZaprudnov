@@ -1,7 +1,5 @@
 # Greetings! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
-My name is Sergey Zaprudnov. 
-I am from Russia, I completed my training in Python Developer, Russia. 
-Currently I live in the Moscow region, the city of Klin, Russia.
+My name is Sergey and I am a developing Python Developer who is studying the programming language in depth and is trying to develop and improve my skills and abilities, learning new libraries and programming methods.
 
 - 📫 How to reach me **szaprudnov@hotmail.com**
 
